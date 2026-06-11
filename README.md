@@ -4,7 +4,7 @@ A responsive, detailed, and visually clean custom weather card for Home Assistan
 
 > **Important Note:** This card's code was generated entirely by AI (Perplexity / Gemini) as a guided project. While it works great in my environment, it might contain edge-case bugs, unhandled exceptions, or be untested in specific scenarios. Use it, enjoy it, but be aware of its synthetic origins! 🤖
 
-![Screenshot](/msztolcman/yrno-weather-card/refs/heads/master/yrno-weather-card.png)
+![Screenshot](yrno-weather-card.png)
 
 ## Features
 - **Smart Location Setup:** By default, it inherits latitude/longitude directly from your Home Assistant settings. You can also override this per-card to show weather for anywhere in the world.
